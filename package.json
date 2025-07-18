@@ -1,0 +1,13 @@
+{
+  "homepage": "https://Mohammad-Irfan-Noorzada.github.io/eurostars-gran-hotel-santiago",
+  "name": "eurostars-gran-hotel-santiago",
+  "version": "1.0.0",
+  "description": "This is one of my best frontend projects — a fully responsive and stylish hotel website.  \r Built with **HTML**, **CSS**, and enhanced with **JavaScript** for interactivity.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

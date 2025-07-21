@@ -7,7 +7,7 @@ Built with **HTML**, **CSS**, and enhanced with **JavaScript** for interactivity
 
 ## 📍 Live Demo
 
-[Click here to view the site](https://mohammad-irfan-noorzada.github.io/eurostars-gran-hotel-santiago/)
+[Click here to view the site](https://eurostars-gran-hotel-santiago.vercel.app/)
 
 ---
 

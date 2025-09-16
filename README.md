@@ -26,7 +26,7 @@ Built with **HTML**, **CSS**, and enhanced with **JavaScript** for interactivity
 ## 📁 Technologies Used
 
 - HTML5
-- CSS3 (1500+ lines)
+- CSS3 (1600+ lines)
 - JavaScript (vanilla)
 - Google Fonts
 - Responsive Grid + Flexbox
